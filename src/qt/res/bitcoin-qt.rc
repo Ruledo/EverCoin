@@ -1,4 +1,4 @@
-IDI_ICON1 ICON DISCARDABLE "icons/AsiaCoin.ico"
+IDI_ICON1 ICON DISCARDABLE "icons/EverCoin.ico"
 
 #include <windows.h>             // needed for VERSIONINFO
 #include "../../clientversion.h" // holds the needed client version information
@@ -18,14 +18,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "AsiaCoin"
-            VALUE "FileDescription",    "AsiaCoin-Qt (OSS GUI client for AsiaCoin)"
+            VALUE "CompanyName",        "EverCoin"
+            VALUE "FileDescription",    "EverCoin-Qt (OSS GUI client for EverCoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "AsiaCoin-qt"
-            VALUE "LegalCopyright",     "2009-2012 The Bitcoin developers, 2012-2013 The AsiaCoin & PPCoin developers"
+            VALUE "InternalName",       "EverCoin-qt"
+            VALUE "LegalCopyright",     "2009-2012 The Bitcoin developers, 2012-2013 The EverCoin & PPCoin developers"
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "AsiaCoin-qt.exe"
-            VALUE "ProductName",        "AsiaCoin-Qt"
+            VALUE "OriginalFilename",   "EverCoin-qt.exe"
+            VALUE "ProductName",        "EverCoin-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END
